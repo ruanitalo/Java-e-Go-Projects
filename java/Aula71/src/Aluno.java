@@ -16,8 +16,7 @@ public class Aluno {
 	}
 	
 	public void mostrarInfo()	{
-		System.out.println("Nome: "+ nome);
-	
-		System.out.println("Udade: " + idade);
+		System.out.println("Nome: "+ nome);	
+		System.out.println("Idade: " + idade);
 	}
 }
